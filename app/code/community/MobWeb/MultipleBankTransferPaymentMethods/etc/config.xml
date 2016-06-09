@@ -25,16 +25,36 @@
     <default>
         <payment>
             <banktransfer2>
+                <active>0</active>
                 <model>multiplebanktransferpaymentmethods/method_banktransfer2</model>
+                <order_status>pending</order_status>
+                <title>Bank Transfer Payment 2</title>
+                <allowspecific>0</allowspecific>
+                <group>offline</group>                
             </banktransfer2>
             <banktransfer3>
+                <active>0</active>
                 <model>multiplebanktransferpaymentmethods/method_banktransfer3</model>
+                <order_status>pending</order_status>
+                <title>Bank Transfer Payment 3</title>
+                <allowspecific>0</allowspecific>
+                <group>offline</group>
             </banktransfer3>
             <banktransfer4>
+                <active>0</active>
                 <model>multiplebanktransferpaymentmethods/method_banktransfer4</model>
+                <order_status>pending</order_status>
+                <title>Bank Transfer Payment 4</title>
+                <allowspecific>0</allowspecific>
+                <group>offline</group>
             </banktransfer4>
             <banktransfer5>
+                <active>0</active>
                 <model>multiplebanktransferpaymentmethods/method_banktransfer5</model>
+                <order_status>pending</order_status>
+                <title>Bank Transfer Payment 5</title>
+                <allowspecific>0</allowspecific>
+                <group>offline</group>
             </banktransfer5>
         </payment>
     </default>
